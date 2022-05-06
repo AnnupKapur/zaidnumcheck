@@ -1,0 +1,16 @@
+{
+  "name": "zaidnumcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4"
+  },
+  "author": "Mr Annup Raj Kapur",
+  "license": "ISC"
+}
